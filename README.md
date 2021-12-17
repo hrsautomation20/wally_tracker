@@ -85,6 +85,10 @@ Wally Tracker loads the page, You should be given the option to Add or Subtract 
 
 ![Atlas](./public/images/wallatlasdb.PNG "Atlas")
 
+#### Autit Report 
+
+![Lighthouse](./public/images/wallylighthouse.PNG "Lighthouse")
+
 <a name="command"></a>
 
 ## Install Command
