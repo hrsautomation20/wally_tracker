@@ -3,8 +3,9 @@ body {
   font-family: Arial;
 }
 
-button, input {
-  font-size: 100%;
+button,
+input {
+  font-size: 80%;
   font-family: Arial;
 }
 
@@ -12,7 +13,8 @@ table {
   width: 100%;
 }
 
-td, th {
+td,
+th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
@@ -33,7 +35,7 @@ tr:nth-child(even) {
 }
 
 .total {
-  font-size: 150%;
+  font-size: 125%;
   text-decoration: underline;
 }
 
@@ -48,4 +50,9 @@ tr:nth-child(even) {
   overflow: auto;
   width: 90%;
   margin: 0 auto;
+}
+
+.title {
+  background-color: teal;
+  color: white;
 }
