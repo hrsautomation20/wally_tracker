@@ -34,7 +34,7 @@ Wally Tracker is a fast and easy way to track money and allows users to access t
 [![Heroku App Status](http://heroku-shields.herokuapp.com/hr-wallytracker)](https://hr-wallytracker.herokuapp.com/)
 
 - Deployed on Heroku
-  [Wally Tracker](hhttps://hr-wallytracker.herokuapp.com/)
+  [Wally Tracker](https://hr-wallytracker.herokuapp.com/)
 
 ---
 
