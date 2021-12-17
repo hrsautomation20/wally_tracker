@@ -1,5 +1,5 @@
 {
-  "name": "budget-app",
+  "name": "Wally Tracker",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coding-boot-camp/unit18hw.git"
+    "url": "git+https://github.com/hrsautomation20/wally_tracker.git"
   },
-  "author": "",
+  "author": "Hardik Rola",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coding-boot-camp/unit18hw/issues"
+    "url": "https://github.com/hrsautomation20/wally_tracker/issues"
   },
   "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
   "dependencies": {
