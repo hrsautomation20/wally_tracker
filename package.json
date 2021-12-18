@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/hrsautomation20/wally_tracker/issues"
   },
-  "homepage": "https://github.com/coding-boot-camp/unit18hw#readme",
+  "homepage": "https://github.com/hrsautomation20/wally_tracker",
   "dependencies": {
     "compression": "^1.7.4",
     "express": "^4.17.1",
